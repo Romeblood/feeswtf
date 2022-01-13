@@ -25,6 +25,7 @@
 }
 
 body {
+padding: 5rem;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
