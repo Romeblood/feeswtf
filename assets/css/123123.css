@@ -24,8 +24,7 @@
   grid-column-gap: 16px;
 }
 
-body {
-padding: 5rem;
+body 
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
