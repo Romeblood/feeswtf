@@ -24,7 +24,7 @@
   grid-column-gap: 16px;
 }
 
-body 
+body {
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
